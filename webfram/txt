@@ -1,0 +1,15 @@
+           |--httpserver --HttpServer.py (主程序)
+           |             --config (httpserver配置)
+  project--|
+           |
+           |
+           |--WebFrame   --WebFrame.py (主程序代码)
+                         --static （存放静态网页）
+                         --views.py （ 应用处理程序）
+                         --urls.py （存放路由）
+                         --settings （框架配置）
+
+
+
+
+
